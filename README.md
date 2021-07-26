@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arihantjain916
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Computer Language
+- 👋 Hi, I’m Arihant Jain
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently doing B.Tech
 - 💞️ I’m looking to collaborate ...
 - 📫 Reach me through mail : arihantj916@gmail.com
 - 
