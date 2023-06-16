@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently doing B.Tech
 - 📫 Reach me through mail : arihantj916@gmail.com
-- <!-- - 💞️ I’m looking to collaborate ... -->
+<!-- - 💞️ I’m looking to collaborate ... -->
 
 <!---
 arihantjain916/arihantjain916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
