@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Nextjs<br>🤝 I’m looking for help with Nextjs<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about<br>⚡ Fun fact I don't like frontend dev
+🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Nextjs<br>🤝 I’m looking for help with Nextjs<br>🌱 I’m currently learning GrphQL<br>💬 Ask me about<br>⚡ Fun fact I don't like frontend dev
 
 
 ## 🌐 Socials:
