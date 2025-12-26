@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-Native<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with developing analytics backend in NodeJs<br>🌱 I’m currently learning DevOps<br>💬 Ask me about anything
+🔭 I’m currently working on React-Native<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning DevOps<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
